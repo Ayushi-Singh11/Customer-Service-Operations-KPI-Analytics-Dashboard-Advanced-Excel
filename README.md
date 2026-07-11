@@ -97,8 +97,8 @@ Additional performance metrics include:
 ---
 
 # **Business Insights & Recommendations**
-1. Representative Workload Analysis
-Insight
+1.**Representative Workload Analysis
+Insight**
 
 Representative R02 handled the highest call volume with 218 calls (21.8% of total calls), while R04 handled the lowest with 186 calls (18.6%), creating a difference of 32 calls.
 
@@ -110,8 +110,8 @@ Recommendation
 
 Review call routing strategies and balance workloads to improve operational efficiency and reduce representative fatigue.
 
-2. Revenue Contribution Analysis
-Insight
+2. **Revenue Contribution Analysis
+Insight**
 
 Representative R03 generated the highest purchase revenue of $20,872 (21.6% of total revenue), followed closely by R02 with $20,581.
 
@@ -123,7 +123,7 @@ Recommendation
 
 Identify R03's customer engagement practices and incorporate them into team training sessions.
 
-3. Overall Customer Satisfaction
+3. **Overall Customer Satisfaction**
 Insight
 
 The average customer satisfaction rating is 3.89 out of 5, indicating generally positive customer feedback.
@@ -136,7 +136,7 @@ Recommendation
 
 Analyze lower-rated interactions and introduce targeted coaching to improve customer satisfaction.
 
-4. Customer Rating Distribution
+4.**Customer Rating Distribution**
 Insight
 
 Only 60 out of 189 filtered calls (31.7%) received a 5-star rating, while 88 calls (46.6%) were rated 4 stars.
@@ -149,7 +149,7 @@ Recommendation
 
 Investigate the characteristics of 5-star interactions and replicate those best practices across the team.
 
-5. Monthly Call Volume Trend (Filtered View)
+5. **Monthly Call Volume Trend (Filtered View)**
 Insight
 
 The highest monthly call volume occurred in April (29 calls), followed by March (26 calls), while December recorded the lowest volume (6 calls).
@@ -162,8 +162,8 @@ Recommendation
 
 Use historical trends for workforce planning and allocate additional resources during peak months.
 
-6. Day-wise Call Distribution (Filtered View)
-Insight
+6. **Day-wise Call Distribution (Filtered View)
+Insight**
 
 Saturday recorded the highest call volume (40 calls), followed by Sunday (36 calls), whereas Tuesday received only 13 calls.
 
@@ -175,8 +175,8 @@ Recommendation
 
 Schedule additional representatives during weekends to maintain service levels and reduce customer wait times.
 
-7. Revenue Distribution Across Representatives
-Insight
+7. **Revenue Distribution Across Representatives
+Insight**
 
 Revenue generation ranges from $16,651 (R04) to $20,872 (R03), representing a difference of $4,221.
 
@@ -188,8 +188,8 @@ Recommendation
 
 Implement performance benchmarking and targeted coaching to improve consistency across the team.
 
-8. Customer Demographics
-Insight
+8. **Customer Demographics
+Insight**
 
 The customer base consists of 599 female customers (59.9%) and 401 male customers (40.1%).
 
@@ -201,8 +201,8 @@ Recommendation
 
 Use customer demographic insights to support personalized engagement strategies and marketing initiatives.
 
-9. City-wise Customer Distribution
-Insight
+9. **City-wise Customer Distribution
+Insight**
 
 Cleveland accounts for the highest customer volume with 389 interactions (38.9%), followed by Columbus (335) and Cincinnati (276).
 
@@ -231,7 +231,7 @@ Recommendation
 
 Leverage the dashboard for periodic performance reviews, KPI monitoring, and data-driven operational decision-making.
 
-# Skills Demonstrated
+##**Skills Demonstrated**
 
 - Business Analysis
 - KPI Reporting
