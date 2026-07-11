@@ -52,7 +52,7 @@ The dataset contains customer service call records with the following attributes
 
 ---
 
-##** Project Workflow**
+## **Project Workflow**
 
 1. Collected customer service dataset
 2. Cleaned and transformed data using Power Query
@@ -64,7 +64,7 @@ The dataset contains customer service call records with the following attributes
 
 ---
 
-##** Dashboard Features**
+## **Dashboard Features**
 
 The dashboard provides interactive analysis based on:
 
