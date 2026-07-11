@@ -8,9 +8,7 @@ Customer Service Operations Analytics
 Developed an interactive **Customer Service Operations & KPI Analytics Dashboard** in **Advanced Excel** to monitor operational performance, representative productivity, customer satisfaction, and purchase trends. The dashboard transforms raw customer service data into meaningful business insights, enabling stakeholders to evaluate performance and support data-driven decision-making.
 
 ---
-
-##** Business Objective
-**
+## **Business Objective**
 Customer service teams generate large volumes of operational data that can be difficult to interpret through spreadsheets alone.
 
 The objective of this project was to build a centralized reporting dashboard that enables business users to:
