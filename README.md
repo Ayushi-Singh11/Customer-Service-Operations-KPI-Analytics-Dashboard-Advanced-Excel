@@ -97,139 +97,35 @@ Additional performance metrics include:
 ---
 
 # **Business Insights & Recommendations**
-1.**Representative Workload Analysis
-Insight**
+**1. Operational Performance**
+Processed 1,000 customer interactions, generating a total purchase amount of $96.6K with an average customer satisfaction rating of 3.89/5, indicating stable overall service performance.
 
-Representative R02 handled the highest call volume with 218 calls (21.8% of total calls), while R04 handled the lowest with 186 calls (18.6%), creating a difference of 32 calls.
+Recommendation: Continuously monitor KPIs to improve customer satisfaction and operational efficiency.
 
-Business Interpretation
+**2. Representative Productivity**
+R02 handled the highest call volume (218 calls), while R03 generated the highest purchase revenue ($20.9K), highlighting differences between operational workload and revenue generation.
 
-The workload is not evenly distributed across representatives, which may impact productivity and service consistency.
+Recommendation: Replicate high-performing sales practices while balancing call allocation across representatives.
 
-Recommendation
+**3. Revenue Performance**
+Purchase revenue varied from $16.7K to $20.9K across representatives, with a $4.2K performance gap, indicating opportunities to improve sales consistency.
 
-Review call routing strategies and balance workloads to improve operational efficiency and reduce representative fatigue.
+Recommendation: Conduct performance benchmarking and targeted coaching for lower-performing representatives.
 
-2. **Revenue Contribution Analysis
-Insight**
+**4. Customer Demographics**
+Female customers accounted for 59.9% (599) of total interactions compared to 40.1% (401) male customers.
 
-Representative R03 generated the highest purchase revenue of $20,872 (21.6% of total revenue), followed closely by R02 with $20,581.
+Recommendation: Utilize customer demographic insights to design targeted engagement and retention strategies.
 
-Business Interpretation
+**5. Regional Customer Distribution**
+Cleveland contributed the highest customer volume (389 interactions, 38.9%), followed by Columbus (335) and Cincinnati (276).
 
-Higher revenue despite handling fewer calls than R02 indicates stronger customer conversion effectiveness.
+Recommendation: Prioritize staffing and customer service resources in high-demand regions.
 
-Recommendation
+**6. Service Quality**
+307 customer interactions (30.7%) received the highest 5-star satisfaction rating, while the overall average satisfaction remained 3.89/5.
 
-Identify R03's customer engagement practices and incorporate them into team training sessions.
-
-3. **Overall Customer Satisfaction**
-Insight
-
-The average customer satisfaction rating is 3.89 out of 5, indicating generally positive customer feedback.
-
-Business Interpretation
-
-While service quality is satisfactory overall, there is still room to improve customer experience.
-
-Recommendation
-
-Analyze lower-rated interactions and introduce targeted coaching to improve customer satisfaction.
-
-4.**Customer Rating Distribution**
-Insight
-
-Only 60 out of 189 filtered calls (31.7%) received a 5-star rating, while 88 calls (46.6%) were rated 4 stars.
-
-Business Interpretation
-
-Most customers are satisfied, but relatively few interactions achieve the highest satisfaction level.
-
-Recommendation
-
-Investigate the characteristics of 5-star interactions and replicate those best practices across the team.
-
-5. **Monthly Call Volume Trend (Filtered View)**
-Insight
-
-The highest monthly call volume occurred in April (29 calls), followed by March (26 calls), while December recorded the lowest volume (6 calls).
-
-Business Interpretation
-
-Customer interactions fluctuate throughout the year, indicating seasonal demand patterns.
-
-Recommendation
-
-Use historical trends for workforce planning and allocate additional resources during peak months.
-
-6. **Day-wise Call Distribution (Filtered View)
-Insight**
-
-Saturday recorded the highest call volume (40 calls), followed by Sunday (36 calls), whereas Tuesday received only 13 calls.
-
-Business Interpretation
-
-Customer demand is concentrated during weekends rather than being evenly distributed across the week.
-
-Recommendation
-
-Schedule additional representatives during weekends to maintain service levels and reduce customer wait times.
-
-7. **Revenue Distribution Across Representatives
-Insight**
-
-Revenue generation ranges from $16,651 (R04) to $20,872 (R03), representing a difference of $4,221.
-
-Business Interpretation
-
-Representative performance varies not only in workload but also in revenue contribution.
-
-Recommendation
-
-Implement performance benchmarking and targeted coaching to improve consistency across the team.
-
-8. **Customer Demographics
-Insight**
-
-The customer base consists of 599 female customers (59.9%) and 401 male customers (40.1%).
-
-Business Interpretation
-
-Female customers represent the majority of customer interactions.
-
-Recommendation
-
-Use customer demographic insights to support personalized engagement strategies and marketing initiatives.
-
-9. **City-wise Customer Distribution
-Insight**
-
-Cleveland accounts for the highest customer volume with 389 interactions (38.9%), followed by Columbus (335) and Cincinnati (276).
-
-Business Interpretation
-
-Operational demand is concentrated in Cleveland.
-
-Recommendation
-
-Prioritize staffing, service resources, and customer engagement initiatives in high-volume locations.
-
-10. **Overall Operational Performance**
-Insight
-
-The customer service operation processed:
-
-1,000 customer calls
-$96,623 total purchase amount
-89,850 total call duration
-Average customer satisfaction of 3.89/5
-Business Interpretation
-
-The dashboard provides a consolidated operational view, enabling managers to monitor productivity, revenue generation, and service quality through a single reporting interface.
-
-Recommendation
-
-Leverage the dashboard for periodic performance reviews, KPI monitoring, and data-driven operational decision-making.
+Recommendation: Analyze high-rated interactions to standardize best practices and improve customer experience.
 
 ##**Skills Demonstrated**
 
